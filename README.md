@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tanzeela! <br/><a href="https://github.com/Tanzeela-Komal">Front-End Developer</a>, <a href="https://github.com/Tanzeela-Komal/">Programmer</a> </h1>
+<h1>Hi, I'm Tanzeela! <br/><a href="https://github.com/Tanzeela-Komal">Frontend Web Developer</a>, <a href="https://github.com/Tanzeela-Komal/">Programmer</a> </h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
