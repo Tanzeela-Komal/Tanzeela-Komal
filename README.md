@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Tanzeela! <br/><a href="https://github.com/Tanzeela-Komal">Front-End Developer</a>, <a href="https://github.com/Tanzeela-Komal/">Programmer</a> </h1>
+
+<h2>👨‍💻 Web Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/Tanzeela-Komal)
+  - [Hello World!](https://github.com/Tanzeela-Komal)
+
+
+
+
+
 
 <!--
-**Tanzeela-Komal/Tanzeela-Komal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
