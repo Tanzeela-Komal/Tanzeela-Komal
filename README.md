@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/Tanzeela-Komal)
+  - [Simple Portfolio Website](https://github.com/Tanzeela-Komal/website)
   - [Hello World!](https://github.com/Tanzeela-Komal)
 
 
