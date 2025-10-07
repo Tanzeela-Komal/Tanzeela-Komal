@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Simple Portfolio Website](https://github.com/Tanzeela-Komal/website)
   - [E-commerce-WebsiteE-commerce-Website](https://github.com/Tanzeela-Komal/E-commerce-Website)
   - [Signup Form](https://github.com/Tanzeela-Komal/Signup-Form) 
